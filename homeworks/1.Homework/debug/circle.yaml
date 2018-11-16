@@ -1,0 +1,3 @@
+- compile:
+    run: gcc -c circle.c -o circle.o
+    exit: 0
